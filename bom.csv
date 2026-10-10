@@ -3,7 +3,6 @@
 Prices in AED. USD at the fixed rate of 3.6725 AED per 1 USD.
 
 | # | Part | Used for | Pack | AED | USD |
-|---|------|----------|------|----:|----:|
 | 1 | Raspberry Pi Pico (RP2040, with headers) | Main controller (A1) | 1 | 59.38 | 16.17 |
 | 2 | GPS module GY-NEO6MV2 | Position logging (plane) | 1 | 46.34 | 12.62 |
 | 3 | W25Q64JVSSIQ SPI flash, SOIC-8 | Flight data storage (U1) | 5 | 24.71 | 6.73 |
