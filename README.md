@@ -33,3 +33,7 @@ Prices in AED. USD at the fixed rate of 3.6725 AED per 1 USD.
 | | Shipping | | | 24.77 | 6.74 |
 | | Other (tax / fees) | | | 0.98 | 0.27 |
 | | **Order total** | | | **252.72** | **68.81** |
+
+
+
+
