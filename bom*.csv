@@ -1,33 +1,26 @@
+## Cost (AliExpress order)
 
-## Parts List
+Prices in AED. USD at the fixed rate of 3.6725 AED per 1 USD.
 
-| # | Part | Qty | Reference |
-|---|------|-----|-----------|
-| 1 | Raspberry Pi Pico (RP2040) | 1 | A1 |
-| 2 | 1x20 female header socket (for Pico) | 2 | A1 |
-| 3 | W25Q64JVSSIQ flash, SOIC-8 | 1 | U1 |
-| 4 | 2N7002 MOSFET, SOT-23 | 1 | Q1 |
-| 5 | 1N5819HW Schottky diode | 1 | D1 |
-| 6 | SS12D00G4 slide switch | 1 | SW1 |
-| 7 | JST-PH 2-pin battery connector (B2B-PH-K) | 1 | J4 |
-| 8 | LED | 1 | D2 |
-| 9 | Resistor 100R | 1 | R1 |
-| 10 | Resistor 330R | 1 | R3 |
-| 11 | Resistor 10k | 2 | R2, R6 |
-| 12 | Resistor 100k | 2 | R4, R5 |
-| 13 | Capacitor 100uF | 1 | C1 |
-| 14 | Capacitor 100nF | 2 | C2, C3 |
-| 15 | Pin header 1x4 (BMP280) | 1 | J1 |
-| 16 | Pin header 1x4 (GPS, plane only) | 1 | J2 |
-| 17 | Pin header 1x8 (MPU6050 / GY-521) | 1 | J3 |
-| 18 | Pin header 1x2 (buzzer) | 1 | J5 |
-| 19 | Pin header 1x3 (servo) | 1 | J6 |
-| 20 | Pin header 1x2 (mode jumper) | 1 | J7 |
-| 21 | Jumper shunt | 1 | J7 |
-| 22 | BMP280 module, 3.3V | 1 | plugs into J1 |
-| 23 | GY-521 (MPU6050) module | 1 | plugs into J3 |
-| 24 | GPS module (plane only) | 1 | plugs into J2 |
-| 25 | SG90 servo (plane) | 1 | plugs into J6 |
-| 26 | Active buzzer, 2-wire | 1 | plugs into J5 |
-| 27 | 1S LiPo battery with JST-PH plug | 1 | plugs into J4 |
-| 28 | Skylog PCB (2-layer, 1.6 mm) | 1 | custom |
+| # | Part | Used for | Pack | AED | USD |
+|---|------|----------|------|----:|----:|
+| 1 | Raspberry Pi Pico (RP2040, with headers) | Main controller (A1) | 1 | 59.38 | 16.17 |
+| 2 | GPS module GY-NEO6MV2 | Position logging (plane) | 1 | 46.34 | 12.62 |
+| 3 | W25Q64JVSSIQ SPI flash, SOIC-8 | Flight data storage (U1) | 5 | 24.71 | 6.73 |
+| 4 | Active buzzer TMB12A | Recovery beeper (via Q1) | 10 | 9.31 | 2.54 |
+| 5 | 1N5819HW Schottky diode, SOD-123 | Power protection (D1) | 50 | 9.16 | 2.49 |
+| 6 | Ceramic capacitor, 100 nF | Decoupling (C2, C3) | 100 | 9.96 | 2.71 |
+| 7 | Electrolytic capacitor, 100 uF | Power smoothing (C1) | 1 | 7.42 | 2.02 |
+| 8 | 2N7002 MOSFET, SOT-23 | Buzzer switch (Q1) | 50 | 8.01 | 2.18 |
+| 9 | SS12D00G4 slide switch | Power switch (SW1) | 20 | 8.52 | 2.32 |
+| 10 | BMP280 pressure sensor module, 3.3 V | Altitude (J1) | 1 | 7.26 | 1.98 |
+| 11 | GY-521 MPU6050 IMU module | Motion sensing (J3) | 1 | 6.43 | 1.75 |
+| 12 | Female pin header 2.54 mm, 1x__ | Sensor and module sockets | 10 | 8.06 | 2.19 |
+| 13 | Female pin header 2.54 mm, 1x__ | Sensor and module sockets | 10 | 4.16 | 1.13 |
+| 14 | Female pin header 2.54 mm, 1x__ | Sensor and module sockets | 10 | 7.85 | 2.14 |
+| 15 | Female pin header 2.54 mm, 1x20 | Pico sockets (A1) | 10 | 5.56 | 1.51 |
+| 16 | Jumper shunt, 2.54 mm | Mode jumper (J7) | 100 | 4.84 | 1.32 |
+| | **Parts subtotal** | | | **226.97** | **61.80** |
+| | Shipping | | | 24.77 | 6.74 |
+| | Other (tax / fees) | | | 0.98 | 0.27 |
+| | **Order total** | | | **252.72** | **68.81** |
