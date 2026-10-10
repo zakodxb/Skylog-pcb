@@ -31,7 +31,7 @@
 | Other (tax / fees) | Difference to order total | 1 | $0.27 | $0.27 | — |
 | [PCB](https://cart.jlcpcb.com/shopcart/cart/) | Main | 5 | $0.80 | $4.00 | [jlcpcb](https://cart.jlcpcb.com/shopcart/cart/) |
 | **Parts subtotal** | — | — | — | **$66.07** | — |
-| **Tax & shipping** | — | — | — | **$6.89** | — |
-| **Total** | — | — | — | **$72.96** | — |
+| **Tax & shipping** | — | — | — | **$28.00** | — |
+| **Total** | — | — | — | **$94.07** | — |
 
-$27.04 left of the tier's funding.
+$5.93 left of the tier's funding.
