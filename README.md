@@ -8,7 +8,7 @@ I first started with an idea and a name sky logger. I'v always thought about cre
 
 ## PCB images!!!!
 ![Skylog PCB](PCB%20FRONT.png)
-![Skylog PCB](PCB%2Oback%20plate%20with%20art.png)
+![Skylog PCB back with art](PCB%20back%20plate%20with%20art.png)
 ![Skylog PCB](PCB.png)
 ![Skylog PCB](Startofpcb.png)
 
