@@ -48,5 +48,9 @@ Prices in AED. USD at the fixed rate of 3.6725 AED per 1 USD.
 | | **Order total** | | | **252.72** | **68.81** |
 
 
+   Full BOM with prices: [bom/bom.csv](bom/bom.csv)
+   
+
+
 
 
