@@ -23,10 +23,10 @@ After grabbing my list of modules that will be useful and that I will need. Then
 
 After I set my footpringts and got ran ERC to make sure all the connections were right and that they were no errors, I started on my PCB. First I started by creating a rectangular area to put my all my modules in, after I did that, I looked at the ghost lines and tried my best to put the modules in the best postioton so that's its the most direct way and least complicated way to wire. I stared wiring modules together, but then ran into an issue. No matter what I tried, I could not connect the gnd all to together, after about an hour or so I went to do some research and found out I can just make a whole copper layer just for the GND which helped so much and made the wiring a lot less messier. I also had to take into account the fact that the modules as well take place, so I make sure to give each pin module a good distance away from each other to make sure everything fits. After wiring everything and making sure they were no errors with the DRC, I started with the PCB art. For this, I used Claude AI which gave me some really good generative designs for the backpalte. All I did was input these into Ki KAD and it looked amazing. I did one last check of DRC, wiring, the 3d model to make sure that nothing was wrong before uploading the files
 
-![Skylog PCB](PCB%20FRONT.png)
-![Skylog PCB back with art](PCB%20back%20plate%20with%20art.png.png)
-![Skylog PCB](PCB.png)
-![Skylog PCB](Startofpcb.png)
+![Skylog PCB](Images/PCB%20FRONT.png)
+![Skylog PCB back with art](Images/PCB%20back%20plate%20with%20art.png.png)
+![Skylog PCB](Images/PCB.png)
+![Skylog PCB](Images/Startofpcb.png)
 
 
 
