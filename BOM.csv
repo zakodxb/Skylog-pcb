@@ -1,0 +1,20 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+"Raspberry Pi Pico (RP2040, with headers)",1,AliExpress,$16.17,$16.17,https://www.aliexpress.com/item/1005008058623788.html
+GPS module GY-NEO6MV2,1,AliExpress,$12.62,$12.62,https://www.aliexpress.com/item/1005006153090346.html
+"W25Q64JVSSIQ SPI flash, SOIC-8",1,AliExpress,$6.73,$6.73,https://www.aliexpress.com/item/1005011573616561.html
+Active buzzer TMB12A,1,AliExpress,$2.54,$2.54,https://www.aliexpress.com/item/1005013110978481.html
+"1N5819HW Schottky diode, SOD-123",1,AliExpress,$2.49,$2.49,https://www.aliexpress.com/item/1005009499190440.html
+Ceramic capacitor 100nF,1,AliExpress,$2.71,$2.71,https://www.aliexpress.com/item/1005011747293156.html
+Electrolytic capacitor 100uF,1,AliExpress,$2.02,$2.02,https://www.aliexpress.com/item/1005011811368397.html
+"2N7002 MOSFET, SOT-23",1,AliExpress,$2.18,$2.18,https://www.aliexpress.com/item/1005010446312149.html
+SS12D00G4 slide switch,1,AliExpress,$2.32,$2.32,https://www.aliexpress.com/item/1005012453860112.html
+BMP280 pressure sensor module 3.3V,1,AliExpress,$1.98,$1.98,https://www.aliexpress.com/item/1005007306812689.html
+GY-521 MPU6050 IMU module,1,AliExpress,$1.75,$1.75,https://www.aliexpress.com/item/1005007989748804.html
+Female pin header 2.54mm 1x__,1,AliExpress,$2.19,$2.19,https://www.aliexpress.com/item/1005012352493805.html
+Female pin header 2.54mm 1x__,1,AliExpress,$1.13,$1.13,https://www.aliexpress.com/item/1005012352493805.html
+Female pin header 2.54mm 1x__,1,AliExpress,$2.14,$2.14,https://www.aliexpress.com/item/1005012352493805.html
+Female pin header 2.54mm 1x20,1,AliExpress,$1.51,$1.51,https://www.aliexpress.com/item/1005012940352449.html
+Jumper shunt 2.54mm,1,AliExpress,$1.32,$1.32,https://www.aliexpress.com/item/1005010500957186.html
+Other (tax / fees),1,,$0.27,$0.27,
+PCB,5,jlcpcb,$0.80,$4.00,https://cart.jlcpcb.com/shopcart/cart/
+Estimated total shipping,1,,,$28.00,
