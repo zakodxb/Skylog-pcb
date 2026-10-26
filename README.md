@@ -6,9 +6,17 @@ I created this for my school club as well, where we test out rc planes and would
 I first started with an idea and a name sky logger. I'v always thought about creating pcbs but thought they were to intercate and difficult. I learned that the best way to learn is to do, so instead of watching a youtube video I went right into it, were I succesfully created this amazing pcb, my first ever. I first started with a list of parts that I will probably use. This consisted of a gps, buzzer, led, distance and velocity tracker, esp32 Pico and more. 
 
 
-S
+After grabbing my list of modules that will be useful and that I will need. Then I started placing them, not worrying about connections till after. I changed the pin name and direction and power type, as well as changing my list of materials as I continued. I wired it all up to the espc 32 signal wires as well as connecting all the gnd to gnd. I then also made my VCC 5.5vb connect to the other 5.5v same with 3v
+
+## Schmatic images
+![schematic 1](Images/Schematic1.png)
+![schematic 2](Images/Schematic2.png)
+![Full schematic](Images/fullschematic.png)
+
+
+After I set my footpringts and got ran ERC to make sure all the connections were right and that they were no errors, I started on my PCB. First I started by creating a rectangular area to put my all my modules in, after I did that, I looked at the ghost lines and tried my best to put the modules in the best postioton so that's its the most direct way and least complicated way to wire. I stared wiring modules together, but then ran into an issue. No matter what I tried, I could not connect the gnd all to together, after about an hour or so I went to do some research and found out I can just make a whole copper layer just for the GND which helped so much and made the wiring a lot less messier. I also had to take into account the fact that the modules as well take place, so I make sure to give each pin module a good distance away from each other to make sure everything fits. After wiring everything and making sure they were no errors with the DRC, I started with the PCB art. For this, I used Claude AI which gave me some really good generative designs for the backpalte. All I did was input these into Ki KAD and it looked amazing. I did one last check of DRC, wiring, the 3d model to make sure that nothing was wrong before uploading the files
 ## PCB images!!!!
-![Skylog PCB](PCB%20FRONT.png.)
+![Skylog PCB](PCB%20FRONT.png)
 ![Skylog PCB back with art](PCB%20back%20plate%20with%20art.png.png)
 ![Skylog PCB](PCB.png)
 ![Skylog PCB](Startofpcb.png)
@@ -22,6 +30,8 @@ S
 
 ## Cost (AliExpress order)
 
+
+For the materials, I did my best to go the cheapest route (AliExpress) and spent alot of time to find some cheap but good modules. There are alot of bulk packs because They usualy sell really cheap parts in bulk of 20-50 and you cant just buy your exact amount. I checked with PCB fabricators in the UAE but was not able to receive an email back or find a price. I sellted on JLCBWAY, which is onyl around 24 USD with shipping, as you get a 10 dollar ish discount first time. I chose the cheapest shipping as well, and its suppose to come in 1-2 weeks of ordering.
 | Name | Quantity | Unit Price (USD) | Total (USD) | Price (AED) | Link | Notes |
 |---|---:|---:|---:|---:|---|---|
 | Raspberry Pi Pico (RP2040, with headers) | 1 | 16.17 | 16.17 | 59.38 | [AliExpress](https://www.aliexpress.com/item/1005008058623788.html) | Main controller (A1) |
